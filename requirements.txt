@@ -19,6 +19,7 @@ streamlit
 moviepy
 scikit-image
 supabase
+supabase-py
 pyjwt
 tqdm
 aiohttp
@@ -36,3 +37,15 @@ python-Levenshtein
 wolframalpha
 playsound
 psutil
+colorama
+uuid
+websockets
+transformers
+fastapi
+uvicorn
+httpx
+langdetect
+dateparser
+cryptography
+markdown
+jinja2
